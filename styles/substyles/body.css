@@ -1,0 +1,25 @@
+body{
+    padding-bottom: 8em;
+    padding-left: clamp(0, 500px, 100%);
+    background-color: var(--primary-darker);
+}
+p,h1,h2,h3,h4,h5,h6{
+    display: inline-block;
+    color: #FFFFFF;
+    
+}
+a p,a h1,a h2,a h3,a h4,a h5,a h6{
+    color: var(--primary-green);
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Cairo', sans-serif;
+}
+

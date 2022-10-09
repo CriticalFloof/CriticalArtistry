@@ -1,0 +1,13 @@
+.dropin{
+    animation: dropIn 1s ease forwards;
+}
+.dropin-inactive{
+    transform: translateY(-50px);
+    opacity: 0;
+}
+.fadein{
+    animation: fadeIn 1s ease forwards;
+}
+.fadein-inactive{
+    opacity: 0;
+}

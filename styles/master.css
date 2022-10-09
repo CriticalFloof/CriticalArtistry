@@ -1,0 +1,16 @@
+@import url(substyles/body.css);
+@import url(substyles/keyframes.css);
+@import url(substyles/animations.css);
+@import url(substyles/navigation.css);
+@import url(substyles/landing.css);
+@import url(substyles/lazypicture.css);
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600&family=Roboto:wght@100;300;400;700&display=swap');
+
+:root{
+    --primary-darker: #101010;
+    --primary-dark: #212121;
+    --primary-green: #00E676;
+    --primary-pink: #FF80AB;
+}
